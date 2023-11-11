@@ -1,0 +1,10 @@
+---
+listing:
+  contents: books/*.qmd
+  type: grid
+  grid-columns: 2
+  image-height: "300px"
+  sort: "title asc"
+  sort-ui: false
+---
+

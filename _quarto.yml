@@ -1,0 +1,49 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Mastering Data & AI"
+  site-url: https://masteringdata.ai
+  search:
+    location: sidebar
+    type: textbox
+  sidebar:
+    title: Mastering Data & AI
+    logo: /eaisi-logo.jpg    
+    tools:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/dkapitan/
+        text: "LinkedIn profile"
+      - icon: github
+        href: https://github.com/dkapitan
+        text: "GitHub profile"
+    style: floating
+    collapse-level: 1
+    contents:
+      - section: books
+        href: books.qmd
+        contents: books/*.qmd
+      - section: selected papers
+        href: papers.qmd
+        contents: papers/*.qmd
+      - section: example notebooks
+        href: notebooks/index.qmd
+        contents: "notebooks/**/*.ipynb"
+  page-footer:
+    left: |
+      <br>
+      © 2023 by Daniel Kapitan<br>
+      This website was created with [![](/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org)<br>
+      [![](/cc-by-nc-eu.png){fig-alt="CC BY-NC 4.0"}](http://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1)<br>
+
+format:
+  html:
+    theme:
+      - cosmo
+      - mozilla.scss
+    css: styles.css
+    toc: true
+
+
+

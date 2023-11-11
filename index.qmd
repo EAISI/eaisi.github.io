@@ -1,0 +1,10 @@
+---
+toc: false
+---
+
+# A currated collection of open access data science learning materials
+
+At EAISI Academy we teach program _Mastering Data & AI_. This website contains teaching materials ...
+
+
+

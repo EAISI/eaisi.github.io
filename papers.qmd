@@ -1,0 +1,12 @@
+---
+title: Selected papers and blogposts
+listing:
+    contents: papers/*.qmd
+    type: grid
+    grid-columns: 2
+    sort: "date desc"
+    sort-ui: false
+    filter-ui: false
+    categories: false
+    feed: false
+---
