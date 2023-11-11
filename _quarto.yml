@@ -13,10 +13,10 @@ website:
     logo: /eaisi-logo.jpg    
     tools:
       - icon: linkedin
-        href: https://www.linkedin.com/in/dkapitan/
+        href: https://www.linkedin.com/showcase/eaisi/
         text: "LinkedIn profile"
       - icon: github
-        href: https://github.com/dkapitan
+        href: https://github.com/eaisi
         text: "GitHub profile"
     style: floating
     collapse-level: 1
