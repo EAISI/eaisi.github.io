@@ -5,6 +5,8 @@ description: |
 author: Simon Prince
 date: 2023-10-23
 image: images/udl.jpg
+page-layout: full
+toc: false
 ---
 
 {{< pdf /resources/prince2023udl.pdf width=100% height=800 >}}

@@ -7,8 +7,10 @@ author:
     - Rob J Hyndman
     - George Athanasopoulos
 date: 2021-05-31
+page-layout: full
+toc: false
 ---
 
 ```{=html}
-<iframe width="100%" height="700" src="https://otexts.com/fpp3/" title="Forecasting Principles & Practice"></iframe>
+<iframe width="100%" height="800" src="https://otexts.com/fpp3/" title="Forecasting Principles & Practice"></iframe>
 ```

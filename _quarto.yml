@@ -8,6 +8,7 @@ website:
   search:
     location: sidebar
     type: textbox
+  reader-mode: true
   sidebar:
     title: Mastering Data & AI
     logo: /eaisi-logo.jpg    
@@ -21,10 +22,39 @@ website:
     style: floating
     collapse-level: 1
     contents:
-      - section: books
+      - section: Textbooks
         href: books.qmd
-        contents: books/*.qmd
-      - section: selected papers
+        contents:
+          - text: "Introduction to Statistical Learning"
+            href: books/islp.qmd
+          - text: "Interpretable ML"
+            href: books/iml.qmd
+          - text: "Time-series forecasting"
+            href: books/fpp.qmd
+          - text: "Deep Learning"
+            href: books/udl.qmd
+
+      - section: Visualization with Altair
+        href: altair/index.qmd
+        contents:
+          - text: "Curriculum"
+            href: altair/curriculum.qmd
+          - text: "Introduction"
+            href: altair/video-altair-intro.qmd
+          - text: "Grammar"
+            href: altair/video-altair-grammar.qmd
+          - text: "Data types"
+            href: altair/video-altair-data-types.qmd
+      - section: Getting into Python
+        href: python/index.qmd
+        contents:
+          - text: "Setting up VS Code"
+            href: python/vs-code.qmd
+          - text: "Real Python"
+            href: python/realpython.qmd
+          - text: "Tour of Python"
+            href: python/whirlwind.qmd
+      - section: Selected papers
         href: papers.qmd
         contents: papers/*.qmd
       - section: example notebooks
