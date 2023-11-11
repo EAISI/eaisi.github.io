@@ -1,67 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://masteringdata.ai/notebooks/pima-indians/pima-indians-with-pycaret.html</loc>
-    <lastmod>2023-11-11T19:56:26.284Z</lastmod>
-  </url>
-  <url>
-    <loc>https://masteringdata.ai/notebooks/ames-housing/ames-housing-with-pycaret.html</loc>
-    <lastmod>2023-11-11T19:56:24.422Z</lastmod>
-  </url>
-  <url>
-    <loc>https://masteringdata.ai/visualisation/index.html</loc>
-    <lastmod>2023-11-11T19:56:20.961Z</lastmod>
-  </url>
-  <url>
-    <loc>https://masteringdata.ai/index.html</loc>
-    <lastmod>2023-11-11T19:56:20.270Z</lastmod>
-  </url>
-  <url>
-    <loc>https://masteringdata.ai/books/altair.html</loc>
-    <lastmod>2023-11-11T19:56:19.623Z</lastmod>
-  </url>
-  <url>
-    <loc>https://masteringdata.ai/books/udl.html</loc>
-    <lastmod>2023-11-11T19:56:18.958Z</lastmod>
-  </url>
-  <url>
-    <loc>https://masteringdata.ai/papers.html</loc>
-    <lastmod>2023-11-11T19:56:18.314Z</lastmod>
-  </url>
-  <url>
-    <loc>https://masteringdata.ai/papers/precision-recall.html</loc>
-    <lastmod>2023-11-11T19:56:17.420Z</lastmod>
-  </url>
-  <url>
-    <loc>https://masteringdata.ai/books.html</loc>
-    <lastmod>2023-11-11T19:56:16.938Z</lastmod>
+    <loc>https://masteringdata.ai/visualisation/stop-aggregating-signal.html</loc>
+    <lastmod>2023-11-11T20:10:15.226Z</lastmod>
   </url>
   <url>
     <loc>https://masteringdata.ai/papers/r2d3-decision-tree.html</loc>
-    <lastmod>2023-11-11T19:56:17.789Z</lastmod>
+    <lastmod>2023-11-11T20:10:13.706Z</lastmod>
+  </url>
+  <url>
+    <loc>https://masteringdata.ai/books/udl.html</loc>
+    <lastmod>2023-11-11T20:10:12.826Z</lastmod>
   </url>
   <url>
     <loc>https://masteringdata.ai/books/fpp.html</loc>
-    <lastmod>2023-11-11T19:56:18.637Z</lastmod>
+    <lastmod>2023-11-11T20:10:12.094Z</lastmod>
   </url>
   <url>
     <loc>https://masteringdata.ai/books/whirlwind.html</loc>
-    <lastmod>2023-11-11T19:56:19.304Z</lastmod>
-  </url>
-  <url>
-    <loc>https://masteringdata.ai/books/isl.html</loc>
-    <lastmod>2023-11-11T19:56:19.970Z</lastmod>
+    <lastmod>2023-11-11T20:10:11.374Z</lastmod>
   </url>
   <url>
     <loc>https://masteringdata.ai/about.html</loc>
-    <lastmod>2023-11-11T19:56:20.563Z</lastmod>
+    <lastmod>2023-11-11T20:10:10.498Z</lastmod>
   </url>
   <url>
-    <loc>https://masteringdata.ai/visualisation/stop-aggregating-signal.html</loc>
-    <lastmod>2023-11-11T19:56:21.859Z</lastmod>
+    <loc>https://masteringdata.ai/notebooks/ames-housing/ames-housing-with-pycaret.html</loc>
+    <lastmod>2023-11-11T20:10:09.826Z</lastmod>
+  </url>
+  <url>
+    <loc>https://masteringdata.ai/notebooks/pima-indians/pima-indians-with-pycaret.html</loc>
+    <lastmod>2023-11-11T20:10:06.442Z</lastmod>
+  </url>
+  <url>
+    <loc>https://masteringdata.ai/books.html</loc>
+    <lastmod>2023-11-11T20:10:04.546Z</lastmod>
   </url>
   <url>
     <loc>https://masteringdata.ai/notebooks/index.html</loc>
-    <lastmod>2023-11-11T19:56:24.898Z</lastmod>
+    <lastmod>2023-11-11T20:10:06.926Z</lastmod>
+  </url>
+  <url>
+    <loc>https://masteringdata.ai/index.html</loc>
+    <lastmod>2023-11-11T20:10:10.170Z</lastmod>
+  </url>
+  <url>
+    <loc>https://masteringdata.ai/papers.html</loc>
+    <lastmod>2023-11-11T20:10:11.026Z</lastmod>
+  </url>
+  <url>
+    <loc>https://masteringdata.ai/books/altair.html</loc>
+    <lastmod>2023-11-11T20:10:11.734Z</lastmod>
+  </url>
+  <url>
+    <loc>https://masteringdata.ai/books/isl.html</loc>
+    <lastmod>2023-11-11T20:10:12.470Z</lastmod>
+  </url>
+  <url>
+    <loc>https://masteringdata.ai/papers/precision-recall.html</loc>
+    <lastmod>2023-11-11T20:10:13.338Z</lastmod>
+  </url>
+  <url>
+    <loc>https://masteringdata.ai/visualisation/index.html</loc>
+    <lastmod>2023-11-11T20:10:14.158Z</lastmod>
   </url>
 </urlset>
