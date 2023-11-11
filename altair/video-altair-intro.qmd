@@ -1,5 +1,5 @@
 ---
-title: Altair's visualization grammar
+title: What is Altair?
 description: |
     This video describes the Python package Altair and the software stack it is built on.
 image: images/altair-intro.png
