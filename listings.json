@@ -1,12 +1,34 @@
 [
   {
+    "listing": "/altair/index.html",
+    "items": [
+      "/altair/curriculum.html",
+      "/altair/video-altair-data-types.html",
+      "/altair/video-altair-grammar.html",
+      "/altair/video-altair-intro.html"
+    ]
+  },
+  {
+    "listing": "/visualisation/index.html",
+    "items": [
+      "/visualisation/stop-aggregating-signal.html"
+    ]
+  },
+  {
+    "listing": "/python/index.html",
+    "items": [
+      "/python/vs-code.html",
+      "/python/realpython.html",
+      "/python/whirlwind.html"
+    ]
+  },
+  {
     "listing": "/books.html",
     "items": [
-      "/books/whirlwind.html",
-      "/books/fpp.html",
-      "/books/isl.html",
       "/books/udl.html",
-      "/books/altair.html"
+      "/books/islp.html",
+      "/books/iml.html",
+      "/books/fpp.html"
     ]
   },
   {
@@ -21,12 +43,6 @@
     "items": [
       "/papers/precision-recall.html",
       "/papers/r2d3-decision-tree.html"
-    ]
-  },
-  {
-    "listing": "/visualisation/index.html",
-    "items": [
-      "/visualisation/stop-aggregating-signal.html"
     ]
   }
 ]
