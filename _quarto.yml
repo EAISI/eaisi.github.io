@@ -33,7 +33,6 @@ website:
             href: books/fpp.qmd
           - text: "Deep Learning"
             href: books/udl.qmd
-
       - section: Visualization with Altair
         href: altair/index.qmd
         contents:
