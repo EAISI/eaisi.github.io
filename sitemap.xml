@@ -2,98 +2,98 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://masteringdata.ai/altair/curriculum.html</loc>
-    <lastmod>2023-11-11T23:19:49.597Z</lastmod>
+    <lastmod>2023-11-11T23:28:05.549Z</lastmod>
   </url>
   <url>
     <loc>https://masteringdata.ai/altair/video-altair-data-types.html</loc>
-    <lastmod>2023-11-11T23:19:49.053Z</lastmod>
+    <lastmod>2023-11-11T23:28:04.821Z</lastmod>
   </url>
   <url>
     <loc>https://masteringdata.ai/altair/index.html</loc>
-    <lastmod>2023-11-11T23:19:48.469Z</lastmod>
+    <lastmod>2023-11-11T23:28:04.093Z</lastmod>
   </url>
   <url>
     <loc>https://masteringdata.ai/visualisation/index.html</loc>
-    <lastmod>2023-11-11T23:19:47.209Z</lastmod>
+    <lastmod>2023-11-11T23:28:02.401Z</lastmod>
   </url>
   <url>
     <loc>https://masteringdata.ai/papers/precision-recall.html</loc>
-    <lastmod>2023-11-11T23:19:46.573Z</lastmod>
+    <lastmod>2023-11-11T23:28:01.553Z</lastmod>
   </url>
   <url>
     <loc>https://masteringdata.ai/books/udl.html</loc>
-    <lastmod>2023-11-11T23:19:45.897Z</lastmod>
+    <lastmod>2023-11-11T23:28:00.665Z</lastmod>
   </url>
   <url>
     <loc>https://masteringdata.ai/books/iml.html</loc>
-    <lastmod>2023-11-11T23:19:45.345Z</lastmod>
+    <lastmod>2023-11-11T23:27:59.913Z</lastmod>
   </url>
   <url>
     <loc>https://masteringdata.ai/about.html</loc>
-    <lastmod>2023-11-11T23:19:44.641Z</lastmod>
+    <lastmod>2023-11-11T23:27:59.021Z</lastmod>
   </url>
   <url>
     <loc>https://masteringdata.ai/python/vs-code.html</loc>
-    <lastmod>2023-11-11T23:19:44.113Z</lastmod>
+    <lastmod>2023-11-11T23:27:58.325Z</lastmod>
   </url>
   <url>
     <loc>https://masteringdata.ai/python/index.html</loc>
-    <lastmod>2023-11-11T23:19:43.421Z</lastmod>
+    <lastmod>2023-11-11T23:27:57.457Z</lastmod>
   </url>
   <url>
     <loc>https://masteringdata.ai/notebooks/ames-housing/ames-housing-with-pycaret.html</loc>
-    <lastmod>2023-11-11T23:19:42.429Z</lastmod>
+    <lastmod>2023-11-11T23:27:56.193Z</lastmod>
   </url>
   <url>
     <loc>https://masteringdata.ai/notebooks/pima-indians/pima-indians-with-pycaret.html</loc>
-    <lastmod>2023-11-11T23:19:38.509Z</lastmod>
+    <lastmod>2023-11-11T23:27:50.721Z</lastmod>
   </url>
   <url>
     <loc>https://masteringdata.ai/books.html</loc>
-    <lastmod>2023-11-11T23:19:36.221Z</lastmod>
+    <lastmod>2023-11-11T23:27:47.717Z</lastmod>
   </url>
   <url>
     <loc>https://masteringdata.ai/notebooks/index.html</loc>
-    <lastmod>2023-11-11T23:19:38.921Z</lastmod>
+    <lastmod>2023-11-11T23:27:51.269Z</lastmod>
   </url>
   <url>
     <loc>https://masteringdata.ai/python/whirlwind.html</loc>
-    <lastmod>2023-11-11T23:19:42.749Z</lastmod>
+    <lastmod>2023-11-11T23:27:56.593Z</lastmod>
   </url>
   <url>
     <loc>https://masteringdata.ai/python/realpython.html</loc>
-    <lastmod>2023-11-11T23:19:43.841Z</lastmod>
+    <lastmod>2023-11-11T23:27:57.941Z</lastmod>
   </url>
   <url>
     <loc>https://masteringdata.ai/index.html</loc>
-    <lastmod>2023-11-11T23:19:44.377Z</lastmod>
+    <lastmod>2023-11-11T23:27:58.669Z</lastmod>
   </url>
   <url>
     <loc>https://masteringdata.ai/papers.html</loc>
-    <lastmod>2023-11-11T23:19:45.057Z</lastmod>
+    <lastmod>2023-11-11T23:27:59.553Z</lastmod>
   </url>
   <url>
     <loc>https://masteringdata.ai/books/fpp.html</loc>
-    <lastmod>2023-11-11T23:19:45.625Z</lastmod>
+    <lastmod>2023-11-11T23:28:00.293Z</lastmod>
   </url>
   <url>
     <loc>https://masteringdata.ai/books/islp.html</loc>
-    <lastmod>2023-11-11T23:19:46.189Z</lastmod>
+    <lastmod>2023-11-11T23:28:01.041Z</lastmod>
   </url>
   <url>
     <loc>https://masteringdata.ai/papers/r2d3-decision-tree.html</loc>
-    <lastmod>2023-11-11T23:19:46.857Z</lastmod>
+    <lastmod>2023-11-11T23:28:01.925Z</lastmod>
   </url>
   <url>
     <loc>https://masteringdata.ai/visualisation/stop-aggregating-signal.html</loc>
-    <lastmod>2023-11-11T23:19:47.965Z</lastmod>
+    <lastmod>2023-11-11T23:28:03.445Z</lastmod>
   </url>
   <url>
     <loc>https://masteringdata.ai/altair/video-altair-intro.html</loc>
-    <lastmod>2023-11-11T23:19:48.749Z</lastmod>
+    <lastmod>2023-11-11T23:28:04.457Z</lastmod>
   </url>
   <url>
     <loc>https://masteringdata.ai/altair/video-altair-grammar.html</loc>
-    <lastmod>2023-11-11T23:19:49.325Z</lastmod>
+    <lastmod>2023-11-11T23:28:05.189Z</lastmod>
   </url>
 </urlset>
