@@ -28,7 +28,7 @@ Python has emerged over the last couple decades as a first-class tool for scient
 
 As with any other (programming) language, it takes years to master it fluently which is beyond the scope this course. Instead, our objective is to have a working knowledge of Python to be able to learn and apply machine learning. To make this explicit we take the following book and online resources as our point of reference. Prior to starting the Data Science Foundation programme, participants are expected to have mastered the following topics:
 
-- A Whirlwind Tour of Python (pages number from the [pdf version](https://github.com/EAISI/WhirlwindTourOfPython/blob/master/vanderplas2016whirlwind.pdf)):
+- A Whirlwind Tour of Python (pages number from the [pdf version](https://github.com/EAISI/eaisi.github.io/blob/main/resources/vanderplas2016whirlwind.pdf)):
   - Know how to install and use Python on your own computer (pages 1 to 13)
   - Know basic semantics of variables, objects and operators (pages 13 to 24)
   - Know built-in simple values and data structures (pages 24 to 37)
