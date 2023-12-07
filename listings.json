@@ -9,9 +9,23 @@
     ]
   },
   {
+    "listing": "/notebooks/index.html",
+    "items": [
+      "/notebooks/pima-indians/pima-indians-with-pycaret.html",
+      "/notebooks/ames-housing/ames-housing-with-pycaret.html"
+    ]
+  },
+  {
     "listing": "/visualisation/index.html",
     "items": [
       "/visualisation/stop-aggregating-signal.html"
+    ]
+  },
+  {
+    "listing": "/papers.html",
+    "items": [
+      "/papers/precision-recall.html",
+      "/papers/r2d3-decision-tree.html"
     ]
   },
   {
@@ -29,20 +43,6 @@
       "/books/islp.html",
       "/books/iml.html",
       "/books/fpp.html"
-    ]
-  },
-  {
-    "listing": "/notebooks/index.html",
-    "items": [
-      "/notebooks/pima-indians/pima-indians-with-pycaret.html",
-      "/notebooks/ames-housing/ames-housing-with-pycaret.html"
-    ]
-  },
-  {
-    "listing": "/papers.html",
-    "items": [
-      "/papers/precision-recall.html",
-      "/papers/r2d3-decision-tree.html"
     ]
   }
 ]
