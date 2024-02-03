@@ -52,7 +52,7 @@ This foundational course aims to cater for participants both with and without pr
 
 If you have never done any scientific programming before, you can prepare as follows:
 
-- Complete the [Python Basics with Real Python](./python-basics-with-real-python.ipynb) notebook which includes basic exercises.
+- Complete the [Python Basics with Real Python](realpython.qmd).
 - Browse the sections from [A Whirlwind Tour of Python](https://github.com/jads-nl/WhirlwindTourOfPython/blob/master/vanderplas2016whirlwind.pdf) and [Python Data Science Handbook](https://github.com/jads-nl/PythonDataScienceHandbook) as listed in @sec-how-much-python to verify you have understood te basics.
 
 ### Experienced programmers
