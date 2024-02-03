@@ -2,10 +2,30 @@
   {
     "listing": "/altair/index.html",
     "items": [
+      "/altair/better-altair-theme.html",
       "/altair/curriculum.html",
+      "/altair/comet-chart.html",
       "/altair/video-altair-data-types.html",
       "/altair/video-altair-grammar.html",
       "/altair/video-altair-intro.html"
+    ]
+  },
+  {
+    "listing": "/visualisation/index.html",
+    "items": [
+      "/visualisation/stop-aggregating-signal.html"
+    ]
+  },
+  {
+    "listing": "/books.html",
+    "items": [
+      "/books/r4ds.html",
+      "/books/udl.html",
+      "/books/islp.html",
+      "/books/pda.html",
+      "/books/turing-way.html",
+      "/books/iml.html",
+      "/books/fpp.html"
     ]
   },
   {
@@ -16,16 +36,11 @@
     ]
   },
   {
-    "listing": "/visualisation/index.html",
+    "listing": "/posts/index.html",
     "items": [
-      "/visualisation/stop-aggregating-signal.html"
-    ]
-  },
-  {
-    "listing": "/papers.html",
-    "items": [
-      "/papers/precision-recall.html",
-      "/papers/r2d3-decision-tree.html"
+      "/posts/stop-aggregating-signal.html",
+      "/posts/predictive-power-score.html",
+      "/posts/precision-recall.html"
     ]
   },
   {
@@ -34,15 +49,6 @@
       "/python/vs-code.html",
       "/python/realpython.html",
       "/python/whirlwind.html"
-    ]
-  },
-  {
-    "listing": "/books.html",
-    "items": [
-      "/books/udl.html",
-      "/books/islp.html",
-      "/books/iml.html",
-      "/books/fpp.html"
     ]
   }
 ]
