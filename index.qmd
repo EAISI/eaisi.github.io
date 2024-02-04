@@ -4,7 +4,11 @@ toc: false
 
 # A currated collection of open access data science learning materials
 
-At EAISI Academy we teach program _Mastering Data & AI_. This website contains teaching materials ...
+At EAISI Academy we teach program _Mastering Data & AI_. This website serves as a digital library of open access materials that are used in our lectures. It contains:
+
+- A digital bookshelf of open access books
+- Selected blogpost that focus on a specific topic or demonstrates a specific principle
+- Example notebooks
 
 
 
