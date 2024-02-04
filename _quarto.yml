@@ -71,9 +71,7 @@ website:
             href: posts/precision-recall.qmd
       - section: example notebooks
         href: notebooks/index.qmd
-        contents:
-          - "notebooks/**/*.ipynb"
-          - "notebooks/**/*out.ipynb"
+        contents: "notebooks/**/*.ipynb"
   page-footer:
     left: |
       <br>
